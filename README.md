@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm woodendoors7</h1>
 <h3 align="center">A person</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=woodendoors7&label=Profile%20views&color=0e75b6&style=flat" alt="woodendoors7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=woodendoors7&label=Profile%20views&color=0e75b6&style=flat" alt="woodendoors7" /></p><sup><sub>(not real, you can spam this and there is no rate limit) </sup></sub>
 
 
 <h3 align="left">Languages and Tools:</h3>
