@@ -32,7 +32,7 @@
 
 
 <kbd>
-  <a style="display:inline-block" href="https://floppa.hair">
+  <a style="display:inline-block" href="https://papers.floppa.hair">
     <img style="height:165px;" src="floppahair.png">
   </a>
 </kbd>
