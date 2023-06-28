@@ -39,4 +39,4 @@
 </kbd>
 
 <h3 align="left">📚 Latest BlogPosts:</h3>
-   • <a href="https://dev.to/woodendoors7/how-to-make-a-discord-bot-that-pings-your-minecraft-server-1ce2">How to make a Discord bot that pings your Minecraft server🤔</a> <kbd><b><a href="https://dev.to/woodendoors7/how-to-make-a-discord-bot-that-pings-your-minecraft-server-1ce2">DEV.TO</a></b></kbd><kbd><b><a href="https://medium.com/@woodendoors7/how-to-make-a-discord-bot-that-fetches-minecraft-servers-status-c48b3dfb214f">Medium</a></b></kbd>
+   • <a target="_blank" href="https://dev.to/woodendoors7/how-to-make-a-discord-bot-that-pings-your-minecraft-server-1ce2">How to make a Discord bot that pings your Minecraft server🤔</a> <kbd><b><a target="_blank" href="https://dev.to/woodendoors7/how-to-make-a-discord-bot-that-pings-your-minecraft-server-1ce2">DEV.TO</a></b></kbd><kbd><b><a target="_blank" href="https://medium.com/@woodendoors7/how-to-make-a-discord-bot-that-fetches-minecraft-servers-status-c48b3dfb214f">Medium</a></b></kbd>
