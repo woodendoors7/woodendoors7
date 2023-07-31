@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://dev.to/woodendoors7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="woodendoors7" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@woodendoors7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="woodendoors7" height="30" width="40" /></a>
-  <a href="https://discord.com/users/427861168284106762" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sex" height="30" width="40" /></a>
+  <a href="https://discord.com/users/1113506196243087411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sex" height="30" width="40" /></a>
   <a href="https://medium.com/@woodendoors7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@woodendoors7" height="30" width="40" /></a>
 </p>
 
