@@ -26,7 +26,7 @@
 
   <kbd>
     <a style="display:inline-block" href="https://github.com/woodendoors7/MinecraftStatusPinger">
-        <img style="height:165px;" src="mcblock.png">
+        <img style="height:165px;" alt="minecraft grass block" src="mcblock.png">
         </a>
     </kbd>
 
@@ -34,7 +34,7 @@
 
 <kbd>
   <a style="display:inline-block" href="https://floppa.hair">
-    <img style="height:165px;" src="floppahair.png">
+    <img style="height:165px;" alt="big floppa with long blonde hair" src="floppahair.png">
   </a>
 </kbd>
 
