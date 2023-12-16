@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Svelte, TS (don't look at the JS code of my sites)**
 
-- 👨‍💻 This is a cool project website [https://floppa.hair](https://floppa.hair)
+- 👨‍💻 These are some cool project websites [https://floppa.hair](https://floppa.hair), [https://nuclearoption.wiki](https://nuclearoption.wiki)
 
 - 📫 How to reach me **woodendoors7** on Discord
 
